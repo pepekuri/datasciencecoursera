@@ -1,1 +1,2 @@
-I want to be sure that I can synchronise my local repository with my web repository. 
+I want to be sure that I can synchronise my local repository with my web repository.
+Now I am going to add this new line.
